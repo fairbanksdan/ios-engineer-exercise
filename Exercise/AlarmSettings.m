@@ -72,7 +72,6 @@
         _dangerLevelValue = 0.5;
         _alarmThresholdValue = 0.9;
         _isAlarmEnabled = true;
-        _firstCheckOut = YES;
     }
 }
 

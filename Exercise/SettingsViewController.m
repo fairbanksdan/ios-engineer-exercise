@@ -42,7 +42,6 @@
     } else {
         AlarmSettings.sharedInstance.isAlarmEnabled = false;
     }
-    
 }
 
 @end

@@ -14,7 +14,6 @@
 @property (nonatomic, assign) CGFloat alarmThresholdValue;
 @property (nonatomic, assign) CGFloat dangerLevelValue;
 @property (nonatomic, assign) BOOL isAlarmEnabled;
-@property BOOL firstCheckOut;
 
 + (AlarmSettings *)sharedInstance;
 
